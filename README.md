@@ -15,3 +15,10 @@ For educational purposes only.
 
 No problem. Just comment out the last line of main.py:
 
+```python
+webbrowser.open(resp)
+```
+to
+```python
+#webbrowser.open(resp)
+```
