@@ -1,4 +1,4 @@
-# pyID
+# pyFP
 A Python3 user fingerprinting example
  
 For educational purposes only.
